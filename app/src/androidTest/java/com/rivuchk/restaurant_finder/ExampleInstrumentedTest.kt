@@ -1,4 +1,4 @@
-package restaurantfinder.com.restaurant_finder
+package com.rivuchk.restaurant_finder
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("restaurantfinder.com.restaurant_finder", appContext.packageName)
+        assertEquals("com.rivuchk.restaurant_finder", appContext.packageName)
     }
 }

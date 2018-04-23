@@ -1,4 +1,4 @@
-package restaurantfinder.com.restaurant_finder
+package com.rivuchk.restaurant_finder
 
 import android.os.Bundle
 import android.support.design.widget.Snackbar

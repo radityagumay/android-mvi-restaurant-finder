@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "restaurantfinder.com.restaurant_finder"
+        applicationId "com.rivuchk.restaurant_finder"
         minSdkVersion 19
         targetSdkVersion 27
         versionCode 1

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="restaurantfinder.com.restaurant_finder">
+    package="com.rivuchk.restaurant_finder">
 
     <application
         android:allowBackup="true"

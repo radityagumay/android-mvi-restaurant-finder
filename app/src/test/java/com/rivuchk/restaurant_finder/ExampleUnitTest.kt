@@ -1,4 +1,4 @@
-package restaurantfinder.com.restaurant_finder
+package com.rivuchk.restaurant_finder
 
 import org.junit.Test
 
