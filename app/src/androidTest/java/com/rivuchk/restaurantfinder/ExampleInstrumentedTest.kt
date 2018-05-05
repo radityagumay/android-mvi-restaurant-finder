@@ -1,4 +1,4 @@
-package com.rivuchk.restaurant_finder
+package com.rivuchk.restaurantfinder
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
