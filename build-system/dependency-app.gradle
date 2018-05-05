@@ -1,0 +1,18 @@
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.android.support.constraint:constraint-layout:1.1.0'
+    implementation 'com.android.support:design:27.1.1'
+
+    // rxjava
+    implementation 'io.reactivex.rxjava2:rxandroid:2.0.2'
+    implementation 'io.reactivex.rxjava2:rxjava:2.1.10'
+    implementation 'com.jakewharton.rxbinding2:rxbinding:2.1.1'
+
+    // architecture component
+    implementation "android.arch.lifecycle:extensions:1.1.1"
+    implementation "android.arch.paging:runtime:1.0.0-rc1"
+
+    kapt "android.arch.lifecycle:compiler:1.1.1"
+}
