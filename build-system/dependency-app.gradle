@@ -12,12 +12,13 @@ dependencies {
 
     // architecture component
     implementation "android.arch.lifecycle:extensions:1.1.1"
-    implementation "android.arch.paging:runtime:1.0.0-rc1"
+    implementation "android.arch.paging:runtime:1.0.0"
     kapt "android.arch.lifecycle:compiler:1.1.1"
 
     // dagger
     implementation 'com.google.dagger:dagger-android:2.14.1'
     implementation 'com.google.dagger:dagger-android-support:2.14.1'
+    kapt "com.google.dagger:dagger-compiler:2.15"
     kapt 'com.google.dagger:dagger-android-processor:2.13'
 
     // retrofit

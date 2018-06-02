@@ -1,0 +1,3 @@
+package com.radityalabs.restaurantfinder.data.network
+
+interface NetworkService
