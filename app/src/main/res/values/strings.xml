@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">restaurant-finder</string>
     <string name="action_settings">Settings</string>
+    <string name="title_di_feature">feature_di</string>
+    <string name="title_feature_di">feature-di</string>
 </resources>

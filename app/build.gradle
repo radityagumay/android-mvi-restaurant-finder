@@ -19,7 +19,8 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    dynamicFeatures = [":feature_di"]
 }
 
 apply from: "$rootDir/build-system/dependency-app.gradle"
-apply from: "$rootDir/build-system/dependency-test.gradle"
+apply from: "$rootDir/build-system/dependency-test.gradle" 
